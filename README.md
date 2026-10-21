@@ -31,7 +31,7 @@ Dalam ekspansi bisnis retail, pemilihan lokasi baru memerlukan perhitungan spasi
 | **Site_3** | 1.800 | DITOLAK | Populasi di bawah batas minimum (< 2.000 jiwa) |
 | **Site_4** | 5.000 | **REKOMENDASI** | Memenuhi syarat jarak dan populasi |
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 1. Clone repositori ini:
    ```bash
    git clone [https://github.com/Aggrakurnia/GIS_-_Industry.git](https://github.com/Aggrakurnia/GIS_-_Industry.git)
